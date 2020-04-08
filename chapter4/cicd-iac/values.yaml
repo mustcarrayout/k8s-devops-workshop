@@ -1,0 +1,5 @@
+ingressDomain: ''
+imagePushRegistry:
+  location: ''
+  username: ''
+  password: ''
